@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.bold-card-text {
+  font-weight: bold;
+}
+
+.form-control:focus {
+  border-color: rgb(25,135,84);
+  box-shadow: none;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
